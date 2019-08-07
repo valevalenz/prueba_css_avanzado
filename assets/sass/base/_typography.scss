@@ -5,28 +5,6 @@
   font-weight: $bold;
 }
 
-.card-title-style{
-  color: $raising-black;
-  font-family: $open-sans;
-  font-size: $x-large;
-  font-weight: $regular;
-}
-
-.card-subtitle-style{
-  color: $raising-black;
-  font-family: $open-sans;
-  font-size: $xx-large;
-  font-weight: $bold;
-}
-
-.card-item-style{
-  color: $nickel;
-  font-family: $open-sans;
-  font-size: $small;
-  font-weight: $regular;
-  line-height: 2;
-}
-
 .header__description{
   color: $raising-black;
   font-family: $open-sans;
@@ -64,6 +42,28 @@
   font-size: $xx-large;
   font-weight:$bold;
   color: $white;
+}
+
+.card-title-style{
+  color: $raising-black;
+  font-family: $open-sans;
+  font-size: $large;
+  font-weight: $regular;
+}
+
+.card-subtitle-style{
+  color: $raising-black;
+  font-family: $open-sans;
+  font-size: $xx-large;
+  font-weight: $bold;
+}
+
+.card-item-style{
+  color: $nickel;
+  font-family: $open-sans;
+  font-size: $small;
+  font-weight: $regular;
+  line-height: 2;
 }
 
 .footer-typo{
