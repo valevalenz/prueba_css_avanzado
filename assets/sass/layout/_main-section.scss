@@ -1,0 +1,68 @@
+.section__characteristics__title {
+  grid-column: 1/-1;
+}
+
+.section__characteristics__title-margin{
+  margin: 5%;
+}
+
+.section__characteristics__subtitle-margin{
+  margin: 5%;
+}
+
+.section__characteristics__vector-margin{
+  margin:5%;
+  display: flex;
+  justify-content: center;
+}
+
+.section__characteristics__content-margin{
+  margin-left:5%;
+}
+
+
+.background__section__price{
+    background-image: url("../img/bg-price.svg");
+      background-repeat: no-repeat;
+      background-size:100% auto;
+}
+
+.section__price__title-margin{
+  padding-top:15%;
+}
+
+.price__card-style{
+  margin: 5% 5% 10% 20%;
+}
+
+
+.abajo{
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 992px) {
+  .section__characteristics__vector-margin{
+    margin:5%;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+ }
+
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+
+
+
+/* seccion section */
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */

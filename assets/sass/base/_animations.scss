@@ -1,0 +1,19 @@
+.section__characteristics__vector{
+  opacity:1;
+  animation-name:entrada-grafico;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes entrada-grafico {
+  from {
+   opacity:0;
+  }
+  to {
+    opacity:1
+  }
+}
+
+.section__price{
+  grid-column: 1/-1;
+}

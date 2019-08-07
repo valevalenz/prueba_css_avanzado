@@ -1,0 +1,29 @@
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+@import 'abstracts/placeholders';
+
+@import 'base/animations';
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'components/buttons';
+@import 'components/inputs';
+@import 'components/cover';
+@import 'components/dropdown';
+
+@import 'layout/grid';
+@import 'layout/navigation';
+@import 'layout/header';
+@import 'layout/main-section';
+@import 'layout/forms';
+@import 'layout/footer';
+
+@import 'pages/home';
+@import 'pages/contact';
+
+@import 'themes/admin';
+@import 'themes/theme';
+
+@import 'vendors/bootstrap/bootstrap';

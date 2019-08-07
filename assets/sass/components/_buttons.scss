@@ -1,0 +1,19 @@
+.btn {
+  background-color: $ball-blue !important;
+  border-color: $ball-blue !important;
+  font-family: $raleway;
+  font-size: $medium !important;
+  font-weight: $regular !important;
+  border-radius: 0 !important;
+}
+
+
+.btn:hover {
+  background-color: $middle-blue !important;
+    border-color: $middle-blue !important;
+}
+
+.btn:focus{
+    background: $silver-chalice !important;
+      border-color: $silver-chalice !important;
+}

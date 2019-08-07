@@ -1,0 +1,18 @@
+.navigation{
+  grid-row: 1/2;
+  grid-column: 1/-1;
+}
+
+.logo{
+  padding-left:5%;
+}
+
+.nav__item-color{
+  color: $raising-black !important;
+}
+
+.nav__toggle-style{
+  border-color: none !important;
+  font-weight: $bold !important;
+  color: $raising-black !important;
+}

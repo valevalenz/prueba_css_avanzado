@@ -1,0 +1,33 @@
+footer{
+  grid-column: 1/-1;
+  height: 100px;
+  background: $raising-black;
+}
+
+.footer__links{
+  text-decoration: none !important;
+  color: $white;
+}
+
+.footer-text-color{
+  color: $white;
+  text-decoration: none;
+}
+
+.footer__content{
+    margin: 5% 5% 2% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+@media (min-width: 992px) {
+  .footer__content{
+      margin: 2% 5% 2% 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+
+ }

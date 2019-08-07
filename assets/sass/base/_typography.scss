@@ -1,0 +1,74 @@
+.header__title{
+  color: $raising-black;
+  font-family: $raleway;
+  font-size: $xxxxx-large;
+  font-weight: $bold;
+}
+
+.card-title-style{
+  color: $raising-black;
+  font-family: $open-sans;
+  font-size: $x-large;
+  font-weight: $regular;
+}
+
+.card-subtitle-style{
+  color: $raising-black;
+  font-family: $open-sans;
+  font-size: $xx-large;
+  font-weight: $bold;
+}
+
+.card-item-style{
+  color: $nickel;
+  font-family: $open-sans;
+  font-size: $small;
+  font-weight: $regular;
+  line-height: 2;
+}
+
+.header__description{
+  color: $raising-black;
+  font-family: $open-sans;
+  font-size: $medium;
+  font-weight: regular;
+
+}
+
+.section__characteristics__title{
+  text-align:center;
+}
+
+.section__characteristics__title-weight{
+  font-family: $raleway;
+  font-size: $xxxx-large;
+  font-weight:$bold;
+}
+
+.section__characteristics__subtitle{
+  font-family: $raleway;
+  font-size: $x-large;
+  font-weight:$bold;
+}
+
+.section__characteristics__content__desc{
+  font-family: $open-sans;
+  font-size: $small;
+  font-weight:$regular;
+  line-height: 200%;
+}
+
+.section__price__title{
+  text-align:center;
+  font-family: $raleway;
+  font-size: $xx-large;
+  font-weight:$bold;
+  color: $white;
+}
+
+.footer-typo{
+  font-family: $open-sans;
+  font-size: $small;
+  font-weight:$regular;
+  color: $white;
+}
